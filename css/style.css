@@ -64,7 +64,7 @@ a {
 }
 /*Banner*/
 .yoga-template .banner {
-	background-image: url(../img/imagen11.jpeg);
+	background-image: url(../img/imagen14.jpg);
 	background-repeat: no-repeat; 
 	background-size: cover;
 	background-position: center center;
@@ -169,7 +169,7 @@ a {
     letter-spacing: 0.6px;
     font-weight: 700;
     padding: 21px 32px 19px;
-    background-color: #7d2181;
+    background-color: #8B0000;
     color: #fff;
     border-radius: 3px;
     text-transform: uppercase;
@@ -224,7 +224,7 @@ a {
 }
 .yoga-template .service-section .service-detail a:hover .service-title{
 	text-decoration: none;
-	color: #fe86d4;
+	color: #8B0000;
 }
 .yoga-template .service-section .service-title {
 	font-family: 'Josefin Sans', sans-serif;
@@ -258,7 +258,7 @@ a {
     font-family: 'Roboto Slab', serif;
     font-size: 28px;
     line-height: 40px;
-    color: #7b6cd5;
+    color: #8B0000;
     font-weight: 600;
 	text-align: left;
 }
@@ -280,10 +280,10 @@ a {
   width: 1.3em;
   font-size: 12px;
   line-height: 40px;
-  color: #7b6cd5; 
+  color: #8B0000; 
 }
 .yoga-template .best-class-club .best-class-club-img {
-	background-image: url(../img/imagen12.jpg);
+	background-image: url(../img/imagen15.jpg);
     background-size: cover;
     background-position: center right;
     background-repeat: no-repeat;
